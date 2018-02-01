@@ -6,4 +6,4 @@ Hyperledger workshop 2018/02 SF
 # Exercise: Multi-org fabric
 https://hyperledger.github.io/composer/tutorials/deploy-to-fabric-multi-org
 
-# Exercise: IBM Cloud
+# Exercise: IBM Cloud for Blockchain
